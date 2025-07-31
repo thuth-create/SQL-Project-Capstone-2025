@@ -2,6 +2,10 @@
 
 */
 
+/* TOp Skills Based on Salary
+
+*/
+
 
 SELECT 
     skills, 
